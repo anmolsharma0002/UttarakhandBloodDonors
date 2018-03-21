@@ -248,9 +248,14 @@
         </div>
 
 
-        <div class="google-map" id="map">Google Map</div>
+        <div class="google-map" id="map">Google Map
+        
+     
+        </div>
 
-
+ <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCaeAoh0mrxozf1WaRNWfSmfYHgKc_IzRQ&callback=initMap">
+    </script>
 
 
 
